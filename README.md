@@ -12,7 +12,7 @@ This project detects vehicles from traffic videos and tracks them with unique ID
 - Saves tracked output video
 
 ## Tech Stack
-- Python, Ultralytics YOLOv8, OpenCV, ByteTrack
+- Python, Ultralytics YOLOv8(Ultralytics is a python library that provides YOLOv8 model), OpenCV, ByteTrack
 
 ## Installation
 pip install -r requirements.txt
